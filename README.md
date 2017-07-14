@@ -8,7 +8,7 @@ composer update --no-dev
 
 ### 2. Check configs
 
-Update
+Update `config.php` file
 
 ### 3. Create DB Schema
 
