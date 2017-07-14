@@ -1,0 +1,16 @@
+{
+    "name": "alex/ap",
+    "description": "Test application for api.zp.ru",
+    "type": "project",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "alex",
+            "email": "alex@1dsn.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "doctrine/orm": "2.4.*"
+    }
+}
